@@ -1,4 +1,4 @@
-flash
-flash-cors
 scikit-learn
+flask 
+flask-cors 
 pyodbc
